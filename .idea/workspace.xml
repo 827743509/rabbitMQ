@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1173e3f4-e3ee-4284-8928-b8ae9608fa9a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
+        <option name="mavenHome" value="E:/develop/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="E:\develop\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XHjZKOYvpi5L7ORB7mJ5vF0BFR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Application.Send">
+    <configuration name="Recv (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.rabbitmq.direct.Recv" />
+      <module name="itcast-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.rabbitmq.direct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recv2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.rabbitmq.fanout.Recv2" />
+      <module name="itcast-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.rabbitmq.fanout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recv2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.rabbitmq.direct.Recv2" />
+      <module name="itcast-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.rabbitmq.direct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Send (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.rabbitmq.fanout.Send" />
+      <module name="itcast-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.rabbitmq.fanout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Send" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.rabbitmq.direct.Send" />
+      <module name="itcast-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.rabbitmq.direct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Send" />
+        <item itemvalue="Application.Recv2" />
+        <item itemvalue="Application.Recv (1)" />
+        <item itemvalue="Application.Send (2)" />
+        <item itemvalue="Application.Recv2 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1173e3f4-e3ee-4284-8928-b8ae9608fa9a" name="Default Changelist" comment="" />
+      <created>1580709967681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580709967681</updated>
+      <workItem from="1580709974230" duration="5482000" />
+      <workItem from="1580718218723" duration="2198000" />
+      <workItem from="1580727472528" duration="38000" />
+      <workItem from="1581223969245" duration="580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1581224579710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581224579710" />
+    <state x="489" y="259" key="Github.CreateGistDialog" timestamp="1581224497060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="489" y="259" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1581224497060" />
+    <state x="473" y="236" key="Github.ShareDialog" timestamp="1581224413198">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="473" y="236" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1581224413198" />
+    <state width="1322" height="105" key="GridCell.Tab.0.bottom" timestamp="1580716996656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="105" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580716996656" />
+    <state width="1322" height="105" key="GridCell.Tab.0.center" timestamp="1580716996656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="105" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580716996656" />
+    <state width="1322" height="105" key="GridCell.Tab.0.left" timestamp="1580716996656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="105" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580716996656" />
+    <state width="1322" height="105" key="GridCell.Tab.0.right" timestamp="1580716996656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="105" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580716996656" />
+  </component>
+</project>
